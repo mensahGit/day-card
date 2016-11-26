@@ -15,7 +15,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            template: "\n\t<h1>Mensah's Angular2 Scaffolding</h1>\n\t",
+            template: "\n\t<h1>Mensah's Angular2 Day Card</h1>\n\t",
             styleUrls: ['styles.css'],
         }), 
         __metadata('design:paramtypes', [])
