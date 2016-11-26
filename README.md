@@ -1,1 +1,1 @@
-# angular-scaffolding
+# angular-day-card

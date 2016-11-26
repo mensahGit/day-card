@@ -1,8 +1,8 @@
 {
 
-    "name": "angular2-scaffolding",
+    "name": "angular2-day-card",
     "version": "1.0.0",
-    "description": "mensah's base angular2 scaffolding",
+    "description": "mensah's angular2 day-card",
     "angular-cli": {},
     "scripts": {
         "start": "tsc && concurrently \"tsc -w\" \"lite-server\" \"ng serve\" ",
